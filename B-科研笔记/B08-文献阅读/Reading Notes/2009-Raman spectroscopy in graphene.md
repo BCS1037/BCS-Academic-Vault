@@ -5,13 +5,13 @@ tags:
  - "2D materials"
  - "graphene"
 status: true
+Comments: 💡欢迎关注我的个人微信公众号【维客笔记】！ <br>💡欢迎关注我的个人微信公众号【维客笔记】！<br>💡换行效果
+rating: 🍓🍓🍓
 ---
-Comments:: 💡欢迎关注我的个人微信公众号【维客笔记】！ <br>💡欢迎关注我的个人微信公众号【维客笔记】！<br>💡换行
-rating:: 🍓🍓🍓
+
 
 >[!info]- <center>Metadata</center>
 >
-|Future research|  |
 >>* ItemType:: Article      
 >>* Authors:: L.M. Malard, M.A. Pimenta, G. Dresselhaus, M.S. Dresselhaus      
 >>* Date:: 2009-04   

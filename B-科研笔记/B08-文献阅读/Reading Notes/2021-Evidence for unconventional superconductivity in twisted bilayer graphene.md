@@ -6,18 +6,18 @@ tags:
  - "graphene"
  - "superconductivity"
 status: true
+Comments: 💡欢迎关注我的个人微信公众号【维客笔记】！！
+rating: 🍓🍓
 ---
-Comments:: 💡欢迎关注我的个人微信公众号【维客笔记】！
-rating:: 🍓🍓🍓
+
 >[!info]- <center>Metadata</center>
 >
-|Future research|  |
 >>* ItemType:: Article      
 >>* Authors:: Myungchul Oh, Kevin P. Nuckolls, Dillon Wong, Ryan L. Lee, Xiaomeng Liu, Kenji Watanabe, Takashi Taniguchi, Ali Yazdani      
 >>* Date:: 2021-12-09   
 >>* Collections:: 105-Graphene, 201-2D Superconductivity, 演示  
 >>* Publication:: Nature    
->>* Tags::  #Electronic-properties-and-materials, #Superconducting-properties-and-materials, #🍉🍉🍉  
+
 
 >[!abstract]- <center>Abstract</center>
 >
@@ -33,28 +33,19 @@ rating:: 🍓🍓🍓
 # 🍛你感兴趣的点是什么？
 
 
-
 # 🍔这篇论文的研究动机是什么？
-
-
 
 
 # 🥪这篇论文用到了哪些专业知识？阅读中你遇到了哪些问题？ 
 
 
-
 # 🍚这篇论文的实验方案是如何设计的？ 
-
-
 
 
 # 🌮有哪些相关的研究？
 
 
-
-
 # 🍝这篇论文的主要贡献是什么？
-
 
 
 # ✍这篇论文在写作表达方面有哪些值得借鉴的地方？

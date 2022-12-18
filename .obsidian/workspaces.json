@@ -157,6 +157,280 @@
         "collapsed": true
       },
       "active": "bf7e45bea3792108"
+    },
+    "Reading Notes Database": {
+      "main": {
+        "id": "662a16bb9f58750e",
+        "type": "split",
+        "children": [
+          {
+            "id": "da857f0a2dd19439",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "513be11b095e3390",
+                "type": "leaf",
+                "state": {
+                  "type": "database-plugin",
+                  "state": {
+                    "file": "B-科研笔记/B08-文献阅读/Reading Notes/Reading Notes Database.md"
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "f362b6e6ff6933a9",
+        "type": "split",
+        "children": [
+          {
+            "id": "456efdb554e68725",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ef34c08a9dc962bf",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "abdd2d427c68746a",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "28cf11feff654e8a",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              },
+              {
+                "id": "522c71f574b9bef7",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "B-科研笔记/B08-文献阅读/Reading Notes/Reading Notes Database.md"
+                  }
+                }
+              },
+              {
+                "id": "ae35f59cf4c1fb2e",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 228.5
+      },
+      "right": {
+        "id": "0acf714d92fc4e9b",
+        "type": "split",
+        "children": [
+          {
+            "id": "b00ed99d7e70d6c0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "375315d9693ad81b",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "B-科研笔记/B08-文献阅读/Reading Notes/Reading Notes Database.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "93375a0954355b52",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "B-科研笔记/B08-文献阅读/Reading Notes/Reading Notes Database.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 248.5,
+        "collapsed": true
+      },
+      "active": "ef34c08a9dc962bf"
+    },
+    "滴答清单": {
+      "main": {
+        "id": "662a16bb9f58750e",
+        "type": "split",
+        "children": [
+          {
+            "id": "2bc2c7ef9d24de82",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "e8a050e5934c89ae",
+                "type": "leaf",
+                "pinned": true,
+                "state": {
+                  "type": "surfing-view",
+                  "state": {
+                    "url": "https://www.dida365.com/"
+                  },
+                  "pinned": true
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "f362b6e6ff6933a9",
+        "type": "split",
+        "children": [
+          {
+            "id": "456efdb554e68725",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ef34c08a9dc962bf",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "abdd2d427c68746a",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "28cf11feff654e8a",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              },
+              {
+                "id": "522c71f574b9bef7",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {}
+                }
+              },
+              {
+                "id": "ae35f59cf4c1fb2e",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 228.5
+      },
+      "right": {
+        "id": "0acf714d92fc4e9b",
+        "type": "split",
+        "children": [
+          {
+            "id": "b00ed99d7e70d6c0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "375315d9693ad81b",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "93375a0954355b52",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 248.5,
+        "collapsed": true
+      },
+      "active": "ef34c08a9dc962bf"
     }
   },
   "active": "Readme&Home"

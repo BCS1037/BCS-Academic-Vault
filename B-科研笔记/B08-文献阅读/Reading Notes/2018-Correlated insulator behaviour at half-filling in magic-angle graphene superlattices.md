@@ -2,18 +2,17 @@
 标签: 
 tags:
  - "2D materials"
+Comments: 💡欢迎关注我的个人微信公众号【维客笔记】！！
+rating: 🍓🍓🍓
 ---
-Comments:: 💡欢迎关注我的个人微信公众号【维客笔记】！
-rating:: 🍓🍓
 >[!info]- <center>Metadata</center>
 >
-|Future research|  |
 >>* ItemType:: Article      
 >>* Authors:: Yuan Cao, Valla Fatemi, Ahmet Demir, Shiang Fang, Spencer L. Tomarken, Jason Y. Luo, Javier D. Sanchez-Yamagishi, Kenji Watanabe, Takashi Taniguchi, Efthimios Kaxiras, Ray C. Ashoori, Pablo Jarillo-Herrero      
 >>* Date:: 2018-04-05   
 >>* Collections:: 105-Graphene, 演示  
 >>* Publication:: Nature    
->>* Tags::  #🍉🍉🍉  
+
 
 >[!abstract]- <center>Abstract</center>
 >

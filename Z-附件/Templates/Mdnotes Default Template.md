@@ -6,13 +6,12 @@ Comments: "💡<br>💡"
 
 >[!info]- <center>Metadata</center>
 >
-|Future research|  |
 >>{{itemType}}      
 >>{{author}}      
 >>{{date}}   
 >>{{collections}}  
 >>{{publicationTitle}}    
->>{{tags}}  
+  
 
 >[!abstract]- <center>Abstract</center>
 >

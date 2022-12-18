@@ -143,7 +143,7 @@ columns:
       link_alias_enabled: true
       media_width: 100
       media_height: 100
-      isInline: true
+      isInline: false
       task_hide_completed: true
   PDFAttachments:
     input: text
@@ -181,7 +181,7 @@ columns:
       link_alias_enabled: true
       media_width: 100
       media_height: 100
-      isInline: true
+      isInline: false
       task_hide_completed: true
   tags:
     input: tags
@@ -227,7 +227,7 @@ columns:
       link_alias_enabled: true
       media_width: 100
       media_height: 100
-      isInline: true
+      isInline: false
       task_hide_completed: true
       wrap_content: true
   status:
