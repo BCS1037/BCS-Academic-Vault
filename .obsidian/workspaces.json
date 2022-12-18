@@ -1,0 +1,163 @@
+{
+  "workspaces": {
+    "Readme&Home": {
+      "main": {
+        "id": "662a16bb9f58750e",
+        "type": "split",
+        "children": [
+          {
+            "id": "da857f0a2dd19439",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "bf7e45bea3792108",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "README.md",
+                    "mode": "source",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          },
+          {
+            "id": "a544cfce72b1cb5b",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "880ff95fc2595994",
+                "type": "leaf",
+                "state": {
+                  "type": "markdown",
+                  "state": {
+                    "file": "🏡 Home.md",
+                    "mode": "preview",
+                    "source": false
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "vertical"
+      },
+      "left": {
+        "id": "f362b6e6ff6933a9",
+        "type": "split",
+        "children": [
+          {
+            "id": "456efdb554e68725",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "ef34c08a9dc962bf",
+                "type": "leaf",
+                "state": {
+                  "type": "file-explorer",
+                  "state": {
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "abdd2d427c68746a",
+                "type": "leaf",
+                "state": {
+                  "type": "search",
+                  "state": {
+                    "query": "tag:#凝聚态物理",
+                    "matchingCase": false,
+                    "explainSearch": false,
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical"
+                  }
+                }
+              },
+              {
+                "id": "28cf11feff654e8a",
+                "type": "leaf",
+                "state": {
+                  "type": "starred",
+                  "state": {}
+                }
+              },
+              {
+                "id": "522c71f574b9bef7",
+                "type": "leaf",
+                "state": {
+                  "type": "outline",
+                  "state": {
+                    "file": "README.md"
+                  }
+                }
+              },
+              {
+                "id": "ae35f59cf4c1fb2e",
+                "type": "leaf",
+                "state": {
+                  "type": "tag",
+                  "state": {
+                    "sortOrder": "frequency",
+                    "useHierarchy": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 228.5
+      },
+      "right": {
+        "id": "0acf714d92fc4e9b",
+        "type": "split",
+        "children": [
+          {
+            "id": "b00ed99d7e70d6c0",
+            "type": "tabs",
+            "children": [
+              {
+                "id": "375315d9693ad81b",
+                "type": "leaf",
+                "state": {
+                  "type": "backlink",
+                  "state": {
+                    "file": "README.md",
+                    "collapseAll": false,
+                    "extraContext": false,
+                    "sortOrder": "alphabetical",
+                    "showSearch": false,
+                    "searchQuery": "",
+                    "backlinkCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              },
+              {
+                "id": "93375a0954355b52",
+                "type": "leaf",
+                "state": {
+                  "type": "outgoing-link",
+                  "state": {
+                    "file": "README.md",
+                    "linksCollapsed": false,
+                    "unlinkedCollapsed": true
+                  }
+                }
+              }
+            ]
+          }
+        ],
+        "direction": "horizontal",
+        "width": 248.5,
+        "collapsed": true
+      },
+      "active": "bf7e45bea3792108"
+    }
+  },
+  "active": "Readme&Home"
+}

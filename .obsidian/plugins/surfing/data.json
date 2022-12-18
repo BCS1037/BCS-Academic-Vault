@@ -1,0 +1,35 @@
+{
+  "defaultSearchEngine": "baidu",
+  "customSearchEngine": [
+    {
+      "name": "duckduckgo",
+      "url": "https://duckduckgo.com/?q="
+    }
+  ],
+  "alwaysShowCustomSearch": true,
+  "showOtherSearchEngines": true,
+  "showSearchBarInPage": true,
+  "markdownPath": "/",
+  "customHighlightFormat": false,
+  "highlightFormat": "[{CONTENT}]({URL})",
+  "highlightInSameTab": false,
+  "openInSameTab": true,
+  "openInObsidianWeb": false,
+  "useCustomIcons": false,
+  "useWebview": false,
+  "useIconList": true,
+  "darkMode": false,
+  "bookmarkManager": {
+    "openBookMark": false,
+    "pagination": "12",
+    "category": "\"计算机\\n    算法\\n    数据结构\\nobsidian\\n    surfing\\n    dataview\\n\"",
+    "defaultColumnList": [
+      "name",
+      "description",
+      "category",
+      "tags",
+      "created",
+      "modified"
+    ]
+  }
+}

@@ -1,0 +1,135 @@
+{
+  "confirmDeletion": true,
+  "showAddCommand": true,
+  "debug": false,
+  "editorMenu": [
+    {
+      "id": "workspace:split-vertical",
+      "icon": "lucide-separator-vertical",
+      "name": "Split right",
+      "mode": "any"
+    },
+    {
+      "id": "workspace:edit-file-title",
+      "icon": "lucide-edit-3",
+      "name": "编辑文件名",
+      "mode": "any"
+    },
+    {
+      "id": "obsidian-auto-link-title:enhance-url-with-title",
+      "icon": "link-2",
+      "name": "Auto Link Title: Enhance existing URL with link and title",
+      "mode": "any"
+    }
+  ],
+  "fileMenu": [],
+  "leftRibbon": [
+    {
+      "id": "obsidian-style-settings:show-style-settings-leaf",
+      "icon": "palette",
+      "name": "Style Settings: Show style settings view",
+      "mode": "any"
+    }
+  ],
+  "rightRibbon": [],
+  "titleBar": [],
+  "statusBar": [
+    {
+      "id": "Enhanced-editing:add-up",
+      "icon": "superscript",
+      "name": "增强编辑: 上标语法",
+      "mode": "any"
+    },
+    {
+      "id": "Enhanced-editing:add-ub",
+      "icon": "subscript",
+      "name": "增强编辑: 下标语法",
+      "mode": "any"
+    },
+    {
+      "id": "editor:insert-wikilink",
+      "icon": "bracket-glyph",
+      "name": "插入内部链接",
+      "mode": "any"
+    },
+    {
+      "id": "editor:toggle-bullet-list",
+      "icon": "lucide-list",
+      "name": "无序列表",
+      "mode": "any"
+    },
+    {
+      "id": "editor:toggle-numbered-list",
+      "icon": "lucide-list-ordered",
+      "name": "有序列表",
+      "mode": "any"
+    },
+    {
+      "id": "editor:toggle-code",
+      "icon": "lucide-code-2",
+      "name": "代码块",
+      "mode": "any"
+    },
+    {
+      "id": "editor:toggle-code",
+      "icon": "code",
+      "name": "行内代码",
+      "mode": "any"
+    },
+    {
+      "id": "quickadd:choice:5048347a-6189-465b-bd05-0cd8c8b38aa8",
+      "icon": "pen-tool",
+      "name": "QuickAdd: 文献阅读随想",
+      "mode": "any"
+    },
+    {
+      "id": "quickadd:choice:78d14936-c7f5-47d6-ad17-ae23a45fa313",
+      "icon": "book",
+      "name": "QuickAdd: 专业知识",
+      "mode": "any"
+    }
+  ],
+  "pageHeader": [
+    {
+      "id": "window:toggle-always-on-top",
+      "icon": "lucide-pin",
+      "name": "将当前窗口置顶",
+      "mode": "any"
+    },
+    {
+      "id": "workspace:split-vertical",
+      "icon": "lucide-separator-vertical",
+      "name": "Split right",
+      "mode": "any"
+    },
+    {
+      "id": "app:delete-file",
+      "icon": "lucide-trash-2",
+      "name": "删除当前文件",
+      "mode": "any"
+    },
+    {
+      "id": "workspace:move-to-new-window",
+      "icon": "lucide-maximize",
+      "name": "将当前面板移动至新窗口",
+      "mode": "any"
+    }
+  ],
+  "macros": [],
+  "explorer": [],
+  "hide": {
+    "statusbar": [],
+    "leftRibbon": []
+  },
+  "spacing": 8,
+  "advancedToolbar": {
+    "rowHeight": 48,
+    "rowCount": 1,
+    "spacing": 0,
+    "buttonWidth": 48,
+    "columnLayout": false,
+    "mappedIcons": [],
+    "tooltips": false,
+    "heightOffset": 0
+  }
+}

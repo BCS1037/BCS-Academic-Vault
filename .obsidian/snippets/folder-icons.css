@@ -1,0 +1,55 @@
+/* 给左侧边栏文件夹前添加图标，""内图标和文件夹名称请自行修改 */
+
+:root{
+    /* California Coast 推荐 4px */
+    /* Minimal 推荐 0.9px */
+    --right: 4px;
+}
+
+.nav-folder-title[data-path$="@Inbox"] .nav-folder-title-content::before {
+    content: "📥" !important;
+    position: relative !important;
+    right: var(--right);
+}
+
+
+.nav-folder-title[data-path$="维客笔记"] .nav-folder-title-content::before {
+    content: "📝" !important;
+    position: relative !important;
+    right: var(--right);
+}
+
+.nav-folder-title[data-path$="A-专业知识"] .nav-folder-title-content::before {
+    content: "🗃️" !important;
+    position: relative !important;
+    right: var(--right);
+}
+
+
+
+.nav-folder-title[data-path$="B-科研笔记"] .nav-folder-title-content::before {
+    content: "💻";
+    position: relative !important;
+    right: var(--right);
+}
+
+
+.nav-folder-title[data-path$="C-生活规划"] .nav-folder-title-content::before {
+    content: "🗓️" !important;
+    position: relative !important;
+    right: var(--right);
+}
+
+
+.nav-folder-title[data-path$="D-软件技能"] .nav-folder-title-content::before {
+    content: "📱" !important;
+    position: relative !important;
+    right: var(--right);
+}
+
+
+.nav-folder-title[data-path$="Z-附件"] .nav-folder-title-content::before {
+    content: "🗂️" !important;
+    position: relative !important;
+    right: var(--right);
+}

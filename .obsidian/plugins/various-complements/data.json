@@ -1,0 +1,91 @@
+{
+  "strategy": "default",
+  "matchStrategy": "prefix",
+  "maxNumberOfSuggestions": 5,
+  "maxNumberOfWordsAsPhrase": 3,
+  "minNumberOfCharactersTriggered": 0,
+  "minNumberOfWordsTriggeredPhrase": 1,
+  "complementAutomatically": true,
+  "delayMilliSeconds": 0,
+  "disableSuggestionsDuringImeOn": false,
+  "insertAfterCompletion": true,
+  "firstCharactersDisableSuggestions": ":/^",
+  "showMatchStrategy": true,
+  "showComplementAutomatically": true,
+  "showIndexingStatus": true,
+  "descriptionOnSuggestion": "Short",
+  "selectSuggestionKeys": "Enter",
+  "additionalCycleThroughSuggestionsKeys": "None",
+  "disableUpDownKeysForCycleThroughSuggestionsKeys": false,
+  "openSourceFileKey": "None",
+  "propagateEsc": false,
+  "enableCurrentFileComplement": true,
+  "currentFileMinNumberOfCharacters": 0,
+  "onlyComplementEnglishOnCurrentFileComplement": false,
+  "enableCurrentVaultComplement": false,
+  "currentVaultMinNumberOfCharacters": 0,
+  "includeCurrentVaultPathPrefixPatterns": "",
+  "excludeCurrentVaultPathPrefixPatterns": "",
+  "includeCurrentVaultOnlyFilesUnderCurrentDirectory": false,
+  "enableCustomDictionaryComplement": false,
+  "customDictionaryPaths": "https://raw.githubusercontent.com/first20hours/google-10000-english/master/google-10000-english-no-swears.txt",
+  "columnDelimiter": "Tab",
+  "customDictionaryWordRegexPattern": "",
+  "delimiterToHideSuggestion": "",
+  "delimiterToDivideSuggestionsForDisplayFromInsertion": "",
+  "caretLocationSymbolAfterComplement": "",
+  "displayedTextSuffix": " => ...",
+  "enableInternalLinkComplement": true,
+  "suggestInternalLinkWithAlias": false,
+  "excludeInternalLinkPathPrefixPatterns": "",
+  "enableFrontMatterComplement": true,
+  "frontMatterComplementMatchStrategy": "inherit",
+  "insertCommaAfterFrontMatterCompletion": false,
+  "intelligentSuggestionPrioritization": {
+    "maxDaysToKeepHistory": 30,
+    "maxNumberOfHistoryToKeep": 0
+  },
+  "showLogAboutPerformanceInConsole": false,
+  "selectionHistoryTree": {
+    "维客笔记": {
+      "维客笔记": {
+        "frontMatter": {
+          "count": 1,
+          "lastUpdated": 1671277370270
+        }
+      }
+    },
+    "如果你不喜欢主题的某些点（比如字号、字体、字体颜色、链接颜色、页面背景等等），可以通过": {
+      "如果你不喜欢主题的某些点（比如字号、字体、字体颜色、链接颜色、页面背景等等），可以通过": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1671279033801
+        }
+      }
+    },
+    "Reading Notes Database": {
+      "Reading Notes Database": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1671289236877
+        }
+      }
+    },
+    "Obsidian": {
+      "Obsidian": {
+        "currentFile": {
+          "count": 1,
+          "lastUpdated": 1671353616491
+        }
+      }
+    },
+    "zotero+Obsidian+db folder": {
+      "zotero+Obsidian+db folder": {
+        "internalLink": {
+          "count": 1,
+          "lastUpdated": 1671354136892
+        }
+      }
+    }
+  }
+}

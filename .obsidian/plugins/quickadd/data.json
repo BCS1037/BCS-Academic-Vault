@@ -1,0 +1,63 @@
+{
+  "choices": [
+    {
+      "id": "5048347a-6189-465b-bd05-0cd8c8b38aa8",
+      "name": "文献阅读随想",
+      "type": "Template",
+      "command": true,
+      "templatePath": "Z-附件/@Templates/文献阅读随想模板.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "B-科研笔记/B08-文献阅读/文献阅读随想"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": true,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "78d14936-c7f5-47d6-ad17-ae23a45fa313",
+      "name": "专业知识",
+      "type": "Template",
+      "command": true,
+      "templatePath": "Z-附件/@Templates/专业知识模板.md",
+      "fileNameFormat": {
+        "enabled": false,
+        "format": ""
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "A-专业知识"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": true,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    }
+  ],
+  "macros": [],
+  "inputPrompt": "single-line",
+  "devMode": false
+}

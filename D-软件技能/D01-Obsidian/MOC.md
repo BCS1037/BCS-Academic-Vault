@@ -1,0 +1,1 @@
+[我的简约版MOC (qq.com)](https://mp.weixin.qq.com/s/E_stz-FXK0YNlpraIh5mUw)
