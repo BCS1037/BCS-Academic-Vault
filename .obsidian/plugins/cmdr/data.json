@@ -35,12 +35,6 @@
   "titleBar": [],
   "statusBar": [
     {
-      "id": "Enhanced-editing:add-up",
-      "icon": "superscript",
-      "name": "增强编辑: 上标语法",
-      "mode": "any"
-    },
-    {
       "id": "Enhanced-editing:add-ub",
       "icon": "subscript",
       "name": "增强编辑: 下标语法",
@@ -74,12 +68,6 @@
       "id": "editor:toggle-code",
       "icon": "code",
       "name": "行内代码",
-      "mode": "any"
-    },
-    {
-      "id": "quickadd:choice:5048347a-6189-465b-bd05-0cd8c8b38aa8",
-      "icon": "pen-tool",
-      "name": "QuickAdd: 文献阅读随想",
       "mode": "any"
     },
     {
