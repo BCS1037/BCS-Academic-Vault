@@ -2,7 +2,7 @@
   "global_settings": {
     "enable_debug_mode": false,
     "enable_show_state": false,
-    "enable_row_shadow": true,
+    "enable_row_shadow": false,
     "enable_ribbon_icon": true,
     "logger_level_info": "error",
     "csv_file_header_key": "File",
@@ -11,7 +11,9 @@
       "enable_media_view": true,
       "width": 100,
       "height": 100
-    }
+    },
+    "show_search_bar_by_default": true,
+    "enable_auto_update": false
   },
   "local_settings": {
     "remove_field_when_delete_column": true,
@@ -32,7 +34,7 @@
     "frontmatter_quote_wrap": true,
     "row_templates_folder": "/",
     "current_row_template": "",
-    "pagination_size": 10,
+    "pagination_size": 200,
     "enable_js_formulas": true,
     "formula_folder_path": "/",
     "inline_default": true,

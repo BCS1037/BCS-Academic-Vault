@@ -4,35 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "da857f0a2dd19439",
+        "id": "e1f68b9a9d23d081",
         "type": "tabs",
         "children": [
           {
-            "id": "bf7e45bea3792108",
+            "id": "0ce8801b552e290f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "README.md",
                 "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ]
-      },
-      {
-        "id": "a544cfce72b1cb5b",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "880ff95fc2595994",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "🏡 Home.md",
-                "mode": "preview",
                 "source": false
               }
             }
@@ -103,12 +85,20 @@
                 "useHierarchy": true
               }
             }
+          },
+          {
+            "id": "57783a4e356b00cd",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 228.5
+    "width": 200
   },
   "right": {
     "id": "0acf714d92fc4e9b",
@@ -146,6 +136,14 @@
                 "unlinkedCollapsed": true
               }
             }
+          },
+          {
+            "id": "7ec72b2fe58c50cf",
+            "type": "leaf",
+            "state": {
+              "type": "Strange New Worlds",
+              "state": {}
+            }
           }
         ]
       }
@@ -154,17 +152,38 @@
     "width": 248.5,
     "collapsed": true
   },
-  "active": "bf7e45bea3792108",
+  "left-ribbon": {
+    "hiddenItems": {
+      "omnisearch:Omnisearch": false,
+      "canvas:新建白板": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "zk-prefixer:创建时间戳笔记": false,
+      "workspaces:管理工作区布局": false,
+      "cmdr:Style Settings: Show style settings view": false,
+      "digitalgarden:Digital Garden Publication Center": false,
+      "dbfolder:创建一个新数据库表": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "obsidian42-brat:BRAT": false,
+      "obsidian-memos:Memos": false,
+      "workspaces-plus:Manage workspaces": false
+    }
+  },
+  "active": "0ce8801b552e290f",
   "lastOpenFiles": [
     "🏡 Home.md",
     "README.md",
-    "B-科研笔记/B08-文献阅读/Reading Notes/2021-Evidence for unconventional superconductivity in twisted bilayer graphene.md",
-    "B-科研笔记/B08-文献阅读/Reading Notes/Reading Notes Database.md",
-    "Z-附件/Templates/Mdnotes Default Template.md",
-    "B-科研笔记/B08-文献阅读/Reading Notes/2018-Unconventional superconductivity in magic-angle graphene superlattices.md",
-    "B-科研笔记/B08-文献阅读/Reading Notes/2018-Correlated insulator behaviour at half-filling in magic-angle graphene superlattices.md",
-    "B-科研笔记/B08-文献阅读/Reading Notes/2009-Raman spectroscopy in graphene.md",
-    "B-科研笔记/B02-实验方法/输运测试.md",
-    "B-科研笔记/B02-实验方法/干法转移.md"
+    "C-生活规划/C01-日记/2023日记Database.md",
+    "C-生活规划/C01-日记2/日记Database.md",
+    "C-生活规划/C01-日记2/2023-01-29.md",
+    "Z-附件/Templates/日记模板.md",
+    "C-生活规划/C01-日记/2023-01-15.md",
+    "C-生活规划/C01-日记/2023-03-03.md",
+    "C-生活规划/C01-日记/2023-02-28.md",
+    "Z-附件/images/1.png",
+    "C-生活规划/C01-日记/Untitled database.md"
   ]
 }

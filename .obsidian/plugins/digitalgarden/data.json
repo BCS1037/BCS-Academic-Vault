@@ -1,0 +1,25 @@
+{
+  "githubRepo": "",
+  "githubToken": "",
+  "githubUserName": "",
+  "gardenBaseUrl": "",
+  "prHistory": [],
+  "theme": "dark",
+  "baseTheme": "{\"name\": \"default\", \"modes\": [\"dark\"]}",
+  "faviconPath": "",
+  "showRibbonIcon": true,
+  "noteSettingsIsInitialized": true,
+  "siteName": "Digital Garden",
+  "slugifyEnabled": true,
+  "defaultNoteSettings": {
+    "dgHomeLink": true,
+    "dgPassFrontmatter": false,
+    "dgShowBacklinks": false,
+    "dgShowLocalGraph": false,
+    "dgShowInlineTitle": false,
+    "dgShowFileTree": false,
+    "dgEnableSearch": false,
+    "dgShowToc": false,
+    "dgLinkPreview": false
+  }
+}

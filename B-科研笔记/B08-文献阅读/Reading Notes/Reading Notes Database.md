@@ -28,6 +28,9 @@ columns:
       media_height: 100
       isInline: true
       task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+      persist_formula: false
   __created__:
     key: __created__
     id: __created__
@@ -48,6 +51,9 @@ columns:
       media_height: 100
       isInline: false
       task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+      persist_formula: false
   __modified__:
     key: __modified__
     id: __modified__
@@ -68,6 +74,9 @@ columns:
       media_height: 100
       isInline: false
       task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+      persist_formula: false
   __tasks__:
     key: __tasks__
     id: __tasks__
@@ -88,6 +97,9 @@ columns:
       media_height: 100
       isInline: false
       task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+      persist_formula: false
   __inlinks__:
     key: __inlinks__
     id: __inlinks__
@@ -108,6 +120,9 @@ columns:
       media_height: 100
       isInline: false
       task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+      persist_formula: false
   __outlinks__:
     key: __outlinks__
     id: __outlinks__
@@ -128,6 +143,9 @@ columns:
       media_height: 100
       isInline: false
       task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+      persist_formula: false
   Authors:
     input: text
     accessorKey: Authors
@@ -145,6 +163,9 @@ columns:
       media_height: 100
       isInline: false
       task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+      persist_formula: false
   PDFAttachments:
     input: text
     accessorKey: PDFAttachments
@@ -162,6 +183,9 @@ columns:
       media_height: 100
       isInline: true
       task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+      persist_formula: false
   rating:
     input: select
     accessorKey: rating
@@ -183,6 +207,9 @@ columns:
       media_height: 100
       isInline: false
       task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+      persist_formula: false
   tags:
     input: tags
     accessorKey: tags
@@ -211,6 +238,9 @@ columns:
       media_height: 100
       isInline: false
       task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+      persist_formula: false
       wrap_content: true
   Comments:
     input: text
@@ -229,6 +259,9 @@ columns:
       media_height: 100
       isInline: false
       task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+      persist_formula: false
       wrap_content: true
   status:
     input: checkbox
@@ -247,6 +280,9 @@ columns:
       media_height: 100
       isInline: false
       task_hide_completed: true
+      footer_type: none
+      persist_changes: false
+      persist_formula: false
 config:
   remove_field_when_delete_column: true
   cell_size: wide
@@ -274,6 +310,9 @@ config:
   date_format: yyyy-MM-dd
   datetime_format: "yyyy-MM-dd HH:mm:ss"
   enable_footer: false
+  font_size: 16
+  metadata_date_format: "yyyy-MM-dd HH:mm:ss"
+  implementation: default
 filters:
   enabled: false
   conditions:

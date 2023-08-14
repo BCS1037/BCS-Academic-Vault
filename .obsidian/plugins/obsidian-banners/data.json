@@ -11,7 +11,7 @@
   "iconHorizontalTransform": null,
   "iconVerticalAlignment": "center",
   "iconVerticalTransform": null,
-  "useTwemoji": true,
+  "useTwemoji": false,
   "showPreviewInLocalModal": true,
   "localSuggestionsLimit": null,
   "bannersFolder": null,

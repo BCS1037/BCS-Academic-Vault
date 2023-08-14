@@ -1,0 +1,14 @@
+{
+  "showFrontmatter": false,
+  "strictLineBreaks": true,
+  "readableLineLength": false,
+  "spellcheck": true,
+  "alwaysUpdateLinks": true,
+  "newLinkFormat": "shortest",
+  "useMarkdownLinks": false,
+  "newFileLocation": "current",
+  "showInlineTitle": false,
+  "attachmentFolderPath": "Z-附件/images",
+  "promptDelete": false,
+  "trashOption": "local"
+}

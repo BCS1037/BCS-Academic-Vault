@@ -1,7 +1,7 @@
 ---
 banner: "![[image2.jpg]]"
 banner_y: 0.5
-banner_icon: 📚 
+banner_icon: 🏠
 banner_x: 0.5
 ---
 
